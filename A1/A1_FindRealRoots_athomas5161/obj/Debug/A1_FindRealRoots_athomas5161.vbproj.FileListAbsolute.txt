@@ -1,0 +1,12 @@
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\bin\Debug\A1_FindRealRoots_conestoga_college.exe.config
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\bin\Debug\A1_FindRealRoots_conestoga_college.exe
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\bin\Debug\A1_FindRealRoots_conestoga_college.pdb
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\bin\Debug\A1_FindRealRoots_conestoga_college.xml
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_athomas5161.vbproj.AssemblyReference.cache
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_conestoga_college.Form1.resources
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_conestoga_college.Resources.resources
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_athomas5161.vbproj.GenerateResource.cache
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_athomas5161.vbproj.CoreCompileInputs.cache
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_conestoga_college.exe
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_conestoga_college.xml
+C:\Users\aksha\OneDrive - Conestoga College\CONESTOGA\SEMESTER 1\STRUCTURED PROGRAMMING\VB PROJECT\ASSIGNMENT\A1_FindRealRoots_athomas5161\obj\Debug\A1_FindRealRoots_conestoga_college.pdb
